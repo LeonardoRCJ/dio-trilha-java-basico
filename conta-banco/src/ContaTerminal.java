@@ -18,7 +18,7 @@ public class ContaTerminal {
         System.out.println("Por favor, digite o número da sua conta: ");
             conta.numero = ler.nextInt();
 
-        System.out.println("Por favor, digite o número da Agência! ");
+        System.out.println("Por favor, digite o número da Agência: ");
             conta.agencia = ler.next();
 
         System.out.println("Informe o saldo da sua conta: ");
